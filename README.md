@@ -13,7 +13,7 @@ And build everything:
     mkdir build
     cd build
     cmake ..
-    make
+    make -j4
 
 You can then run the main program:
 
